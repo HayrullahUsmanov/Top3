@@ -1,9 +1,9 @@
 a {
-    color: brown;
+    color: rgb(47, 0, 255);
    
 }
 h2 {
-    color: chocolate;
+    color: rgb(0, 0, 0);
 }
 h1 {
 
@@ -34,6 +34,15 @@ header{
     background-image: url(https://teachalexit.github.io/manuals/frontend/f1img/headerBGTown.png);
     background-size: cover;
     background-position: center center;
+}
+.car{
+    background-image: url(https://teachalexit.github.io/manuals/frontend/f1img/headerBGCar.png);
+}
+.animal{
+    background-image: url(https://teachalexit.github.io/manuals/frontend/f1img/headerBGEnimals.png);
+}
+.flowers{
+    background-image: url(https://live.staticflickr.com/8073/8307198852_878d4f319b_b.jpg);
 }
 body{
     margin: 0px;
